@@ -45,8 +45,8 @@ The `version` string MUST contain only digits and dots, following
 "MAJOR.MINOR.PATCH" pattern as described in Semantic Versioning
 (https://semver.org/). PATCH version is optional and can be omitted.
 
-Smart contracts MAY add more fields to the structure after the `version`
-field, but their semantics are not standardized.
+Smart contracts MAY add more fields to the structure **after** the
+`version` field, but their semantics are not standardized.
 
 
 Known standard names
