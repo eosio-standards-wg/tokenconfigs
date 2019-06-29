@@ -37,6 +37,9 @@ Table definition
 The table MUST be initialized before any tokens and balances are created
 by the contract.
 
+The table MUST have only one row (singleton class is most suitable for
+this).
+
 The `standard` field MUST contain a name from the list in the next
 section. If your project is not listed, open a pull request or an issue
 in tokenconfigs repository.
