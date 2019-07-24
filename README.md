@@ -68,7 +68,8 @@ Known standard names
 * `dnft`, Distributed Ownership NFT by Quillhash
   (https://github.com/Quillhash/dnfts)
 
-
+* `drealms`, dRealms decentralized gaming universe (https://www.drealms.io)
+  created by GoodBlock (https://github.com/goodblockio/drealms-standard)
 
 
 Copyright and License
