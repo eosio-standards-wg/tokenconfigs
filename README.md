@@ -62,7 +62,7 @@ Known standard names
 
 * `dgoods`, dGoods by Mythical Games (https://dgoods.org/)
 
-* `dsp`, tokens based on Zeus dApp Software development Kid by
+* `dsp`, tokens based on Zeus dApp Software development Kit by
   LiquidApps (https://liquidapps.io/)
 
 * `dnft`, Distributed Ownership NFT by Quillhash
