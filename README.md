@@ -71,6 +71,8 @@ Known standard names
 * `drealms`, dRealms decentralized gaming universe (https://www.drealms.io)
   created by GoodBlock (https://github.com/goodblockio/drealms-standard)
 
+* `nifty`, Nifty Standard by Dappetizer (https://github.com/Dappetizer/nifty-standard)
+
 
 Copyright and License
 ---------------------
