@@ -71,6 +71,8 @@ Known standard names
 * `drealms`, dRealms decentralized gaming universe (https://www.drealms.io)
   created by GoodBlock (https://github.com/goodblockio/drealms-standard)
 
+* `marble`, Marble Standard by Dappetizer (https://github.com/Dappetizer/marble-standard)
+
 
 Copyright and License
 ---------------------
