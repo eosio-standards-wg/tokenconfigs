@@ -73,6 +73,8 @@ Known standard names
 
 * `marble`, Marble Standard by Dappetizer (https://github.com/Dappetizer/marble-standard)
 
+* `atomicassets`, AtomicAssets NFT standard by pink.network (https://atomicassets.io/)
+
 
 Copyright and License
 ---------------------
